@@ -1,3 +1,6 @@
+## This repository is archived.
+Its new home is here: https://github.com/openshift/rosa-govcloud-quickstart
+
 # ROSA GovCloud Quickstart
 
 This Terraform module is a quickstart for provisioning an existing VPC to install a ROSA cluster in AWS GovCloud for demonstration purposes. It will also create a jumphost for access into the cluster once it comes up.
